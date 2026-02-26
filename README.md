@@ -196,12 +196,18 @@ Verificación Visual: Mira la ventana de la Vista 3D (arriba a la derecha). Debe
 
 Modo Render: Para ver los colores reales y las luces, presiona la tecla Z en tu teclado y selecciona Rendered.
 
+<img width="1427" height="885" alt="image" src="https://github.com/user-attachments/assets/c8cbc41f-ea77-4f48-b637-06db3350aee6" />
+
+
 # Paso 4: Probar la Animación
-Como el script configuró los Keyframes (cuadros clave):
+ primero tenemos que identicicar la camarita de la imagen 
 
-Mueve tu mouse hacia la Línea de Tiempo (Timeline) en la parte inferior.
+ <img width="588" height="393" alt="image" src="https://github.com/user-attachments/assets/fa20507c-2ed1-4615-a4a6-0ef3672c0b5b" />
 
-Presiona la Barra Espaciadora para ver cómo la cámara recorre el pasillo.
+una vez identificado en nuestro teclado precionamos ctrl space para hacer mas grade la imagen
 
-Si quieres ver la perspectiva del "jugador", presiona Numpad 0 (el cero del teclado numérico).
-  
+<img width="1568" height="776" alt="image" src="https://github.com/user-attachments/assets/320796ab-e410-4dd4-8cbb-6a865aaddb5e" />
+
+para poderle dar al recorrido o que la camara empiece a avanzar le damos space y podremos apreciar como se trastala da camara 
+
+
